@@ -1,6 +1,8 @@
 <h1 align="center"><b>CSS3 Project</b></h1>
 
-This repository contain CSS3 light box project. <a href="https://prmdtya.github.io/vanilla-css3-project/" target="_blank">Click Me</a> to go to the website.
+<p>This repository contain CSS3 light box project. 
+<a href="https://prmdtya.github.io/vanilla-css3-project/" target="_blank">Click Me</a>
+to go to the website.</p>
 
 ## **Tech Stack**
 
