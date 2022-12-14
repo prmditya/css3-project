@@ -19,6 +19,13 @@ body {
   justify-content: center;
 }
 
+a:active,
+a:focus {
+  outline: 0;
+  border: none;
+  -moz-outline-style: none;
+}
+
 .container {
   display: flex;
   width: 700px;
@@ -128,7 +135,7 @@ body {
 .overlay:target .close,
 .overlay:target .next,
 .overlay:target .previous {
-  animation: slide-down ease-in-out 0.3s 0.2s forwards;
+  animation: slide-down ease-in 0.3s 0.2s forwards;
 }
 
 footer {
